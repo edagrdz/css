@@ -1,0 +1,279 @@
+#topbar{
+	background-color: #000000;
+	height: 165px;
+	border-bottom: 1px solid #2A2A2A;
+}
+body{
+	background-color: #000000;
+	color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	display: block;			
+	font-size: 17px;
+	width: 1140px;
+	margin: 0 auto;
+
+}
+#logo{
+	margin-top: 29px;
+	width: 215px;
+	height: 122px;
+	float: left;
+	padding-right: 400px;
+}
+#logo:hover{
+
+}
+.topbar-container{
+	float: left;
+	width: 520px;
+	height: 50px;
+	margin-top: 115px;
+}
+.topbar-section{
+	float: left;
+	border-left: 1px solid #000000;
+	height: 100%;
+}
+.topbar-menu{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: 700;
+	padding: 13px 10px 0 10px;
+	height: 36px;
+}
+.topbar-menu:hover{
+	background-color: #FFFFFF;
+	color: black;
+}
+.clear{
+	clear: both;	
+}
+.clear2{
+	margin-top: 200px;
+}
+@font-face {
+    font-family: 'CarbonBlock';
+    font-style: normal;
+    font-weight: normal;
+    src: local('CarbonBlock'), url("/2-css/CarbonBlock.eot") format("eot"), url("/2-css/CarbonBlock.ttf") format("truetype");
+}		
+#page-main-title{
+	font-size: 24px;
+	font-family: 'CarbonBlock', sans-serif;
+	border-bottom: 1px solid #2A2A2A;
+	padding-bottom: 8px;
+
+}
+#page-container{
+	width: 1140px;
+	margin: 0 auto;
+}
+#article-container{
+	width: 800px;
+	padding-right: 20px;
+	float: left;
+}
+#imagen-tierra{
+	position: relative;
+	top: 7px;
+	left: 50px;
+}
+.a-tags{
+	color: #a1d0ff;
+	text-decoration: none;
+}
+.a-tags:hover{
+	color: #A21300;
+}
+.a-tags-2{
+	color: #7D7D7D;
+	text-decoration: none;
+}
+.a-tags-2:hover{
+	color: #A21300;
+}
+.paragraphs{
+	text-align: justify;
+	line-height: 24px;
+	display: block;
+	margin-bottom: 12px;
+}
+#article-menu{
+	background-color: #141414;
+	width: 800px;
+	height: 55px;
+}
+.article-section-options{
+	background-color: #A1D0FF;
+	float: left;
+	border-left: 1px solid #000000;
+	height: 100%;
+	margin: 10px 3px 0 0;
+}	
+.article-menu-options{
+	color: #000000;
+	padding: 8px 8px 0 8px;
+	height: 27px;
+	position: relative;
+	left: 15px;
+}
+.article-menu-options:hover{
+	background-color: #FFFFFF;
+}	
+.pages-titles{
+	color: #55F889;
+	font-family: 'CarbonBlock', sans-serif;
+}		
+td, th{
+	text-align: left;
+	padding: 3px 5px; 
+}
+#earth-diagram-container{
+	width: 100%;
+	height: 500px;
+	background-color: #17274E;
+	margin-top: 20px;
+	padding-top: 1px; 
+}
+.earth-img-diagram{
+	position: relative;
+	top: -15px;
+	left: 20px;
+}
+.p-diagram{
+	text-align: center;
+	color: #8B8B8B;
+	margin-top: -5px;
+	font-size: 15.5px;
+}
+ul{
+	position: relative;
+	left: -17px;
+}		
+li{
+	margin-bottom: -15px;
+	font-weight: bold;
+}
+#top-facts{
+	float: right;
+	width: 319px;
+}
+#search-box-section{
+	width: 319px;
+	height: 140px;	
+	border-bottom: 1px solid #2A2A2A;
+}
+#search-box{	
+	background-color: #1A1A1A;
+	color: #6A6A6A;	
+	font-size: 17px;
+	border: none;
+	width: 280px;
+	height: 20px;
+	float: left;
+	margin: 15px 0 8px 0;
+	padding: 4px;
+}
+#top-facts-right{
+	width: 159px;
+	float: right;
+}
+#blog-right{
+	float: right;
+}
+.paragraphs-2{
+	margin-top: -10px;
+}
+
+#end-menu{
+	width: 100%;
+	height: 250px;
+	border-bottom: 1px solid #2A2A2A;
+	padding-top: 50px;
+}
+#end-menu-planets-container{
+	width: 370px;
+	height: 100%;
+	float: left;
+}
+.end-menu-titles{			
+	font-family: 'CarbonBlock', sans-serif;
+}
+#terrestrial-planets{
+	width: 50%;
+	height: 60%;
+	float: left;
+	margin-top: -20px;
+}
+#gaseous-planets{
+	width: 50%;
+	height: 60%;
+	float: right;
+	margin-top: -20px;
+}
+.planets{
+	float: left;
+}
+.moved-planets{
+	position: relative;
+	top: 15px;
+}
+#space-tumblr-container{
+	width: 380px;
+	height: 100%;
+	float: left;
+}
+#tumblr-1-4{
+	width: 380px;
+	height: 100px;
+	margin-top: -10px;
+}
+#tumblr-5-8{
+	width: 380px;
+	height: 100px;
+	margin-top: -10px;
+}
+.tumblr-images{
+	width: 85px;
+	height: 85px;
+	padding-right: 5px; 
+}
+#more-container{
+	float: right;
+	width: 380px;
+	height: 100%; 
+}
+#final{
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+}
+#final-menu{
+	width: 400px;
+	height: 40px;
+	position: relative;
+	top: 30px;
+}
+#copyright-image{
+	float: left;
+}
+.topbar-section-final{
+	float: left;
+	height: 17px;
+	border-right: 2px solid #7D7D7D;
+	padding: 0 5px; 
+}
+.topbar-contact{
+	float: left;
+	height: 17px;
+	padding: 0 5px; 
+}		
+#name-site{
+	color: #7D7D7D;
+	font-weight: bold;
+	font-size: 80%;
+	position: relative;
+	top: -12px;			
+}		
