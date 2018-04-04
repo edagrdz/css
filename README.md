@@ -1,6 +1,6 @@
-# 2-css
+# 2-CSS3
 
-Evaluación final CSS
+Evaluación final CSS3
 
 http://cursodedesarrolladorweb-com.stackstaging.com/2-css/paginabbc/bbc.html
 
